@@ -1,0 +1,47 @@
+# tapectrl dialog theme
+
+# True black background
+use_shadow = OFF
+use_colors = ON
+
+# Screen Colors
+screen_color = (black,white,off)
+shadow_color = (black,black,off)
+
+# Dialog Box Colors
+dialog_color = (black,white,off)
+title_color = (white,black,on)
+border_color = (white,white,off)
+border2_color = (black,white,off)
+
+# Button Colors
+button_active_color = (white,black,on)
+button_inactive_color = (white,black,off)
+button_key_active_color = (white,black,on)
+button_key_inactive_color = (blue,white,off)
+button_label_active_color = (yellow,black,on)
+button_label_inactive_color = (white,black,off)
+
+# Menu Colors
+menu_color = (white,black,off)
+menu_selected_color = (white,black,on)
+menu_key_color = (blue,white,off)
+menu_key_selected_color = (blue,white,on)
+tag_color = (blue,white,off)
+tag_selected_color = (yellow,black,on)
+tag_key_color = (blue,white,off)
+tag_key_selected_color = (blue,white,on)
+
+# Input Box Colors
+inputbox_color = (white,black,off)
+inputbox_border_color = (white,white,off)
+inputbox_border2_color = (black,white,off)
+
+# Text Box Colors
+textbox_color = (white,black,off)
+textbox_border_color = (white,white,off)
+textbox_border2_color = (black,white,off)
+
+# Info Box
+infobox_color = (white,black,off)
+infobox_border_color = (white,white,off)
