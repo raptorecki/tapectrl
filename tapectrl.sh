@@ -303,7 +303,7 @@ main_menu() {
     while true; do
         run_dialog_capture --clear --backtitle "tapectrl v$VERSION - Tape Device: $TAPE_DEVICE" \
             --title "MAIN MENU" \
-            --menu "$LOGO_ART\n\nSelect an operation:" \
+            --menu "Select an operation:" \
             $DIALOG_HEIGHT $DIALOG_WIDTH 13 \
             "1" "Write To Tape" \
             "2" "Rewind" \
